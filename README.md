@@ -1,5 +1,5 @@
 ## Base Project
-Denny Cheng's Base Project README.md file
+
 ## index.html
 The index.html file is a starter html file that has all the initial functionality of a my page.
 ## style_sheet.css
